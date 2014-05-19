@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HeadHunter</string>
+    <string name="action_settings">Settings</string>
+    <string name="vacancy">Vacancy:</string>
+    <string name="search">Search</string>
+    <string name="vacancy_hint">Input vacancy type</string>
+    <string name="vacancy_name">Vacancy name</string>
+    <string name="vacancy_date">Vacancy date</string>
+    <string name="vacancy_time">Vacancy time</string>
+    <string name="employer_name">Employer name</string>
+    <string name="image_description">Employer image</string>
+    <string name="description">Vacancy description</string>
+    <string name="show_on_site">Show on site</string>
+
+</resources>
